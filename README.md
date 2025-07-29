@@ -1,4 +1,6 @@
-# 👕 Clothing Brand Sales Analysis with Campaign Performance Insights
+# 👕 Clothing Brand Sales Analysis with Campaign Performance Insights 
+
+# https://app.powerbi.com/groups/9bc74714-3f1d-442b-878b-ae5d45594548/reports/17dcf3e2-7b80-4cb8-9dc6-d38f78c22a54?ctid=522f4175-3af7-4ccc-9b5d-97cc8017fa4b&pbi_source=linkShare#
 
 Hi, I'm **Rahul**, a fresher in the field of Data Analytics. This is one of my first Power BI projects where I designed an end-to-end interactive dashboard for a clothing brand to analyze sales performance and marketing campaign effectiveness.
 
